@@ -1,5 +1,5 @@
 # github-practice
 
-* name: john
-* age: 28
-* job: -
+* name: jane
+* age: 16
+* job: student
