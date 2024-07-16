@@ -1,5 +1,5 @@
 # github-practice
 
-* name: amy
-* age: 33
-* job: teacher
+name: sheldon
+age: 28 
+job: physicist
