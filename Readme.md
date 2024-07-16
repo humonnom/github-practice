@@ -1,5 +1,5 @@
 # github-practice
 
-name: leonard
-age: 40 
-job: physicist
+name: penny
+age: 37 
+job: waitress
